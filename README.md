@@ -1,1 +1,6 @@
-# Python resources
+# Python.
+
+* Fundamentals
+  * Intro
+* Python for data science
+
